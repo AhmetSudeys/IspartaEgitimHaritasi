@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "562632217910",
+    "project_id": "ispartaokulharita",
+    "storage_bucket": "ispartaokulharita.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562632217910:android:74a41f87449961f7f48f97",
+        "android_client_info": {
+          "package_name": "com.ahmetsudeys.ispartaokulharita"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "API_ANAHTARINIZ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

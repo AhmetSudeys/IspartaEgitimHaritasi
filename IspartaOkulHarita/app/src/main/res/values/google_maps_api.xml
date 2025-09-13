@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Isparta Eğitim Haritası</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <!-- Google Maps API anahtarı -->
+    <string name="google_maps_key">AIzaSyAH_Ns8wopG6q2gZ_hlY75-wzpjsl_IzbA</string>
+</resources>
+

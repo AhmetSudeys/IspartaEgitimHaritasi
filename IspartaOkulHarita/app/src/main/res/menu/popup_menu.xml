@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_filtrele"
+        android:title="Filtrele"
+        android:icon="@android:drawable/ic_menu_search" />
+
+    <item
+        android:id="@+id/menu_admin"
+        android:title="Admin Paneli"
+        android:icon="@android:drawable/ic_menu_manage" />
+</menu>
