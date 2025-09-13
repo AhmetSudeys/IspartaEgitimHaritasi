@@ -1,1 +1,57 @@
-# 🗺️ Isparta Eğitim Haritası **Isparta Eğitim Haritası**, Isparta ilindeki Millî Eğitim Bakanlığına bağlı tüm eğitim kurumlarını harita üzerinde gösteren Android tabanlı bir mobil uygulamadır. Bu proje, staj süreci kapsamında geliştirilmiştir. --- ## 📌 Özellikler - 📍 **Harita Entegrasyonu (Google Maps SDK)** Tüm kurumlar harita üzerinde marker olarak gösterilir. - 🏫 **Detaylı Kurum Bilgileri** Marker'a tıklanınca açılan panelde şu bilgiler gösterilir: - Okul adı - Adres - İl / İlçe - Kurum türü - Telefon - Web sitesi - Öğrenci sayısı - Öğretmen sayısı - Derslik sayısı - ⚡ **Performans Odaklı Yükleme (Lazy Fetch)** Uygulama açılışta yalnızca konum (enlem–boylam) verilerini yükler, detaylar marker tıklanınca getirilir. - 🎨 **Modern ve Kullanıcı Dostu Arayüz** Estetik ve sade tasarlanmış arayüz bileşenleri ile kolay kullanım. - 🔍 **Dinamik Filtreleme Sistemi** - İlçe ve kurum türüne göre filtreleme - Filtreyi sıfırlama - Filtre içerikleri Firestore’dan dinamik olarak alınır - 🛠️ **Yönetici (Admin) Paneli** - Yönetici girişi sonrası: - Kurum güncelleme - Kurum silme - Doğrudan Firestore ile entegre çalışır --- ## 🛠️ Kullanılan Teknolojiler - **Kotlin (Android)** - **Firebase Firestore** (Bulut veritabanı) - **Google Maps SDK** - **Material Design UI Bileşenleri** --- ## 📲 Uygulamayı İndirme Buraya tıklayarak (https://tls.tc/70d3o) `.apk` dosyasını indirebilirsiniz. ---
+# 🗺️ Isparta Eğitim Haritası
+
+**Isparta Eğitim Haritası**, Isparta ilindeki Millî Eğitim Bakanlığına bağlı tüm eğitim kurumlarını harita üzerinde gösteren Android tabanlı bir mobil uygulamadır.  
+Bu proje, staj süreci kapsamında geliştirilmiştir.
+
+---
+
+## 📌 Özellikler
+
+- 📍 **Harita Entegrasyonu (Google Maps SDK)**  
+  Tüm kurumlar harita üzerinde marker olarak gösterilir.
+
+- 🏫 **Detaylı Kurum Bilgileri**  
+  Marker'a tıklanınca açılan panelde şu bilgiler gösterilir:
+  - Okul adı  
+  - Adres  
+  - İl / İlçe  
+  - Kurum türü  
+  - Telefon  
+  - Web sitesi  
+  - Öğrenci sayısı  
+  - Öğretmen sayısı  
+  - Derslik sayısı
+
+- ⚡ **Performans Odaklı Yükleme (Lazy Fetch)**  
+  Uygulama açılışta yalnızca konum (enlem–boylam) verilerini yükler, detaylar marker tıklanınca getirilir.
+
+- 🎨 **Modern ve Kullanıcı Dostu Arayüz**  
+  Estetik ve sade tasarlanmış arayüz bileşenleri ile kolay kullanım.
+
+- 🔍 **Dinamik Filtreleme Sistemi**
+  - İlçe ve kurum türüne göre filtreleme
+  - Filtreyi sıfırlama
+  - Filtre içerikleri Firestore’dan dinamik olarak alınır
+
+- 🛠️ **Yönetici (Admin) Paneli**
+  - Yönetici girişi sonrası:
+    - Kurum güncelleme
+    - Kurum silme
+  - Doğrudan Firestore ile entegre çalışır
+
+---
+
+## 🛠️ Kullanılan Teknolojiler
+
+- Kotlin (Android)
+- Firebase Firestore (Bulut veritabanı)
+- Google Maps SDK
+- Material Design UI Bileşenleri
+
+---
+
+## 📲 Uygulamayı İndirme
+
+📦 [.apk dosyasını buraya tıklayarak indirebilirsiniz](https://tls.tc/70d3o)
+
+---
