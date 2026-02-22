@@ -58,27 +58,38 @@ Bu proje, staj süreci kapsamında geliştirilmiştir.
 
 ## 📸 Görseller
 
-<img width="472" height="1011" alt="Ekran görüntüsü 2026-02-22 032923" src="https://github.com/user-attachments/assets/1c02d07e-d5cc-4cf5-9635-57f2862c4896" />
-
-
-<img width="467" height="1033" alt="Ekran görüntüsü 2026-02-22 032937" src="https://github.com/user-attachments/assets/088afb97-a681-43ab-8501-8bfa14cabceb" />
-
-
-<img width="467" height="1020" alt="Ekran görüntüsü 2026-02-22 032953" src="https://github.com/user-attachments/assets/69252062-273c-4d0a-a126-13c30c41b3df" />
-
-
-<img width="474" height="897" alt="Ekran görüntüsü 2026-02-22 033003" src="https://github.com/user-attachments/assets/ca744626-fd36-4beb-804d-3cfe1da0e268" />
-
-
-<img width="475" height="996" alt="Ekran görüntüsü 2026-02-22 033040" src="https://github.com/user-attachments/assets/9a4bf898-5116-4b74-ad77-6c607f700319" />
-
-
-<img width="476" height="988" alt="Ekran görüntüsü 2026-02-22 033056" src="https://github.com/user-attachments/assets/06de0936-6759-497b-8753-d95f38cf1ffe" />
-
-
-
-
-
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/1c02d07e-d5cc-4cf5-9635-57f2862c4896" width="300px"/><br/>
+      <sub><b>Harita Ana Görünüm</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/088afb97-a681-43ab-8501-8bfa14cabceb" width="300px"/><br/>
+      <sub><b>Arama ve Filtreleme</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/69252062-273c-4d0a-a126-13c30c41b3df" width="300px"/><br/>
+      <sub><b>Kurum Detay Paneli</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ca744626-fd36-4beb-804d-3cfe1da0e268" width="300px"/><br/>
+      <sub><b>İlçe Seçimi</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/9a4bf898-5116-4b74-ad77-6c607f700319" width="300px"/><br/>
+      <sub><b>Admin Giriş Ekranı</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/06de0936-6759-497b-8753-d95f38cf1ffe" width="300px"/><br/>
+      <sub><b>Veri Güncelleme Paneli</b></sub>
+    </td>
+  </tr>
+</table>
 
 
 
