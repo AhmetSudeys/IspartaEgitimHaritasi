@@ -52,7 +52,7 @@ Bu proje, staj süreci kapsamında geliştirilmiştir.
 
 ## 📲 Uygulamayı İndirme
 
-📦 [.apk dosyasını buraya tıklayarak indirebilirsiniz](https://tls.tc/70d3o)
+📦 [.apk dosyasını buradan indirebilirsiniz](<img src="https://github.com/user-attachments/assets/87b0426d-8ea2-4b25-87f0-9d3189405f77" />)
 
 ---
 
@@ -90,6 +90,8 @@ Bu proje, staj süreci kapsamında geliştirilmiştir.
     </td>
   </tr>
 </table>
+
+
 
 
 
