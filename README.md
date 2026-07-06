@@ -52,7 +52,8 @@ Bu proje, staj süreci kapsamında geliştirilmiştir.
 
 ## 📲 Uygulamayı İndirme
 
-📦 [.apk dosyasını buradan indirebilirsiniz](<img src="https://github.com/user-attachments/assets/87b0426d-8ea2-4b25-87f0-9d3189405f77" />)
+📦 [.apk dosyasını buradan indirebilirsiniz](<img width="718" height="723" alt="qr" src="https://github.com/user-attachments/assets/6623b74b-8743-4f9d-bf03-6b7d088c63c6" />
+)
 
 ---
 
